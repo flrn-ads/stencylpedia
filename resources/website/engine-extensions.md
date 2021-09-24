@@ -117,4 +117,4 @@ Title | Your Name (on Stencyl.com) | Description | Extra Votes | Notes |
 **In app browser for Windows**| Donni11 | In app browser ; users can view webpages in the windows game  |--- | A extension is [available for IOS and Android](http://community.stencyl.com/index.php/topic,38900.0.html)
 **Audio Utilities**| Ozygiygas | Modify game audio at runtime: change pitch, speed, and/or distort sounds and music | --- | ---
 [**Game Attribute Extension Blocks**](http://community.stencyl.com/index.php/topic,51059.0.html) | Donni11 | Additional blocks adding    more functionality to game attributes| --- | ---
-
+**Adstronomic**| FlorianAdstronomic | User Acquisition solution for indie app makers, 100x cheaper than Google Ads. | --- | ---
